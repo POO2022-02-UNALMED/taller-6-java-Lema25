@@ -7,7 +7,7 @@ public class Fabricante {
 	public static Map<Fabricante, Integer> mapaFabri = new HashMap<Fabricante, Integer>();
 	private String nombre;
 	private Pais pais;
-}
+
 	
 	public Fabricante(String nombre, Pais pais) {
 		this.nombre = nombre;
@@ -40,4 +40,4 @@ public class Fabricante {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;}
 	
-	
+}
