@@ -90,6 +90,4 @@ public class Vehiculo {
 	public void setPuertas(int puertas) {
 		this.puertas = puertas;}
 	
-
-	
 }
